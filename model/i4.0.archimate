@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="i4.0" id="ec9b3ae3-084f-4bad-814e-3efbc0672b37" version="4.0.0">
+  <folder name="Strategy" id="a254889a-91b8-4eb1-95e7-f91d73a48ee5" type="strategy">
+    <element xsi:type="archimate:CourseOfAction" name="Cost control" id="542d5e7a-7019-425b-9b30-30432a4ce798"/>
+    <element xsi:type="archimate:CourseOfAction" name="Diferentiation" id="daa4a732-e82f-4b2b-a1a0-7aa35db46ffc"/>
+    <element xsi:type="archimate:CourseOfAction" name="Focusing" id="7f0e1fa6-159d-4b5c-ac72-422bc100dd9c"/>
+  </folder>
+  <folder name="Business" id="04ac052a-2770-4170-a192-0f8d3686a032" type="business">
+    <element xsi:type="archimate:Product" name="Measurement As Service" id="7ec5caac-f5cb-4dfc-8cee-2af457f92fbd"/>
+    <element xsi:type="archimate:BusinessProcess" name="Main technology process" id="ef6add94-2c6c-4752-bb82-f02fa2343406"/>
+    <element xsi:type="archimate:BusinessProcess" name="EAM PLM" id="f126aa91-1963-4737-9856-4e9e974e5fd8"/>
+    <element xsi:type="archimate:BusinessProcess" name="Production" id="8ce3a97b-7ee7-4a08-ad62-9db6c23c2659"/>
+    <element xsi:type="archimate:BusinessProcess" name="Design" id="cf91b408-8538-4854-8399-bdfee3dccb18"/>
+    <element xsi:type="archimate:BusinessProcess" name="Build" id="83b9857f-1c0e-4055-b6ab-bbbd2e897515"/>
+    <element xsi:type="archimate:BusinessProcess" name="Comissioning" id="b9a53600-19a3-4bee-904b-89ead199f250"/>
+    <element xsi:type="archimate:BusinessProcess" name="Maintenance" id="d0f1f59f-2a6f-4335-a2ea-39a7d719a9ae"/>
+    <element xsi:type="archimate:BusinessProcess" name="Recycling" id="72939b55-e5e3-4fb2-ab29-d9bba8d7ab09"/>
+    <element xsi:type="archimate:BusinessProcess" name="Materials management" id="0f1807fb-503f-4e01-ba2b-bacf1f954e0b"/>
+    <element xsi:type="archimate:BusinessProcess" name="Energy Management" id="377adc10-00ca-4b81-8ea6-a1c02de54f5c"/>
+    <element xsi:type="archimate:BusinessProcess" name="Logistics" id="c0bd1274-0363-47a6-957a-83e27638377c"/>
+    <element xsi:type="archimate:BusinessProcess" name="Procurement" id="141046c5-4044-4d90-a054-ef4d2a4bce33"/>
+    <element xsi:type="archimate:BusinessProcess" name="New Product Desing" id="fb0c3699-171b-4feb-95af-4192e82ed075"/>
+    <element xsi:type="archimate:BusinessProcess" name="Sales" id="69c89f69-bd02-4b9f-9ee6-c00af2c56456"/>
+    <element xsi:type="archimate:BusinessProcess" name="Customer service" id="2180f1bd-d5ff-4d4a-b1ec-7b3381456dcb"/>
+  </folder>
+  <folder name="Application" id="cab6b630-d205-49e6-9ac7-416a10e730af" type="application">
+    <element xsi:type="archimate:ApplicationCollaboration" name="Smart Factory" id="68fb6936-b081-4fad-998b-21494c5d8016"/>
+    <element xsi:type="archimate:ApplicationCollaboration" name="Integrated Energy" id="0e141174-654d-451b-897d-08c140c10f23">
+      <documentation>A battleground for market players both old and new&#xD;
+Power is no longer generated only in conventional power stations, but also in many industrial processes and private households – consumers are becoming energy suppliers, and vice versa. How is the market developing in this age of decentralised power generation?&#xD;
+&#xD;
+It's all in the energy mix&#xD;
+&#xD;
+Good use of energy not only means utilizing it more efficiently, but also sensibly combining renewable energy production and the right energy storage in an integrated energy system. Hybrid grids play an important role here.&#xD;
+&#xD;
+The energy supply of the future faces huge challenges: More and more people and more and more electric devices and machines are requiring more and more power. How do we ensure a secure supply and a stable grid? That is the most urgent question before energy suppliers, as well as consumers. Because efficient use of the resource is as important as its production and storage.&#xD;
+&#xD;
+Smart power grids and storage, known as smart grids, and technologies for load management, should form the foundation for an efficient and secure energy system of the future. The strong expansion of renewable energies is also having a major impact on the energy system as a whole: Frequent overproduction of solar and wind power requires a rethinking of how we generate and above all store energy. Energy production is increasingly dependent on weather conditions, and reliant on local production units.&#xD;
+&#xD;
+Upgrading the conventional power grid&#xD;
+&#xD;
+Already today, many smaller production facilities are connected to the grid, such as photovoltaic systems on rooftops, biogas plants and business-owned CHP plants. These feed power locally into the distribution grid. Smart grids ensure the efficient coordination of production, storage, grid management and consumption so that suppliers maintain a smooth system. New measurement, control and regulation technologies need to be integrated into the conventional grid to make this possible. And smart grids are not limited to electricity: Natural gas and distance heating networks can also be connected to the infrastructure, and even be used as additional energy storage. These various networks and systems are merging together to become hybrid grids.&#xD;
+&#xD;
+An integrated energy system should be more than just energy systems and networks, however: Water and wastewater infrastructures, traffic systems, even street lighting and traffic lights can be included in this complex construct – always with the goal of ensuring more efficient use of the energy supply.&#xD;
+&#xD;
+From consumer unit to self-sufficient supplier&#xD;
+&#xD;
+The biggest task when it comes to connecting integrated energy systems may well be the remediation of the existing energy infrastructure. This is also the source of the biggest potential: Instead of looking at a building in isolation and optimizing it to its own energy needs, a comprehensive approach would achieve much more by viewing it as a part of the integrated energy system.&#xD;
+&#xD;
+Houses, factories and administrative buildings then become decentralized energy suppliers, storage units and distributors. In other words: local energy hubs. For example, power might be generated by photovoltaic systems or biogas plants, with excess energy transformed into hydrogen, stored and turned back into energy and heat when needed with the help of a fuel cell. In the best cases, this results in a self-sufficient unit that fully supplies its own needs and does not even have a grid connection any more. But there is a long way to go before that point.&#xD;
+&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationCollaboration" name="Smart Materials" id="448bd6c9-0be9-48f8-994d-618fb718fd57"/>
+    <element xsi:type="archimate:ApplicationCollaboration" name="Predictive Maintenance" id="a69c779f-328c-4ce8-b6a8-b59769963905"/>
+    <element xsi:type="archimate:ApplicationCollaboration" name="Cobots" id="fb7f8f81-07fb-4187-8fe9-c21a77c489c1"/>
+    <element xsi:type="archimate:ApplicationCollaboration" name="Energy Efficiency" id="d0e1e2ea-af77-4139-8847-bf8efe2d8097">
+      <documentation>Energy concepts of the future&#xD;
+Reducing energy consumption is more than a matter of image. From energy recovery to autonomous power stations, modern technologies are achieving efficiency ratings, that also have a remarkable effect on the bottom line.&#xD;
+&#xD;
+It takes cooperation to save energy&#xD;
+&#xD;
+Companies around the world are facing the need to manage their energy resources more efficiently. Synergies can help drastically cut energy costs, realize potential cost savings and achieve climate protection goals – wins across the board.&#xD;
+&#xD;
+Efficiency is the ratio of cost to result. This common economic principle certainly applies to energy savings: If you can achieve the same or even a better result at lower cost, your efficiency increases.&#xD;
+&#xD;
+One way for companies to implement this notion in practice is learning energy efficiency networks, or LEEN for short.&#xD;
+&#xD;
+The core idea: ten or fifteen companies from the same sector or the same region meet regularly to share knowledge around energy savings, and take advantage of synergies. Instead of each one having to research for itself how to use their energy more efficiently, their shared knowledge grows exponentially for all.&#xD;
+&#xD;
+Saving energy together is easier&#xD;
+&#xD;
+This allows all of them to benefit from lower energy costs, save electricity and reveal previously unsuspected potential savings in energy consumption. Such change is urgent, with Germany still in sixth place in the list of the world's biggest greenhouse gas producers, behind China (25 percent share), the United States (17 percent), India (6 percent), Russia (5 percent) and Japan (4 percent). And 40 percent of carbon dioxide emissions come from the energy sector. Energy production here in Germany still relies on fossil fuels such as lignite and coal for almost two-thirds of the total.&#xD;
+&#xD;
+This means that for every kilowatt-hour of power generated, more than 600 grams of carbon dioxide on average are released into the atmosphere, more than in many other countries.&#xD;
+&#xD;
+Take advantage of massive energy savings potential&#xD;
+&#xD;
+Experts are therefore calling for greater energy savings, particularly in business: Some 70 percent of power is consumed by industry, trade and service companies. Germany wants to reduce its total emissions by 40 percent by 2020 – and is supporting private households and businesses with subsidies for this purpose. The biggest energy consumers, the United States and China, recently ratified the Paris climate protection agreement together. The US has pledged to decrease its CO2 emissions by at least 26 percent by 2020. China lags far behind this promise: Under the agreement, its CO2 emissions will continue to rise until 2030.&#xD;
+&#xD;
+New climate protection regulations represent not just requirements for industry, but also opportunities: Already today, Germany is one of the technology leaders in renewable energies and energy efficiency, and also the leading export nation for environmental technologies, accounting for 16 percent of the global market.</documentation>
+    </element>
+  </folder>
+  <folder name="Technology &amp; Physical" id="d78a396e-8410-4622-aa67-98258ea042b1" type="technology">
+    <element xsi:type="archimate:TechnologyCollaboration" name="IIOT" id="ad17c8e7-e018-43e1-8328-1d4b6f476e1e"/>
+    <element xsi:type="archimate:TechnologyCollaboration" name="Clouds" id="34e09615-804f-4ae3-9d6c-b23d2ac2736a"/>
+    <element xsi:type="archimate:TechnologyCollaboration" name="Mobile solutions" id="764ecf9f-5adc-4d9a-9349-51537526d140"/>
+    <element xsi:type="archimate:TechnologyCollaboration" name="BigData" id="79abea6e-cfae-433c-88a1-4136239865d2"/>
+    <element xsi:type="archimate:TechnologyCollaboration" name="Service Oriented Architecture" id="d389380c-92a8-42cd-bfda-35d1a0dd82b7"/>
+    <element xsi:type="archimate:TechnologyCollaboration" name="Digital twins" id="5dc02a24-c6a6-4f89-aeb1-4f3731b0874f"/>
+    <element xsi:type="archimate:TechnologyCollaboration" name="Robots" id="8869c339-2038-4b6a-ab16-633b93304b7e"/>
+  </folder>
+  <folder name="Motivation" id="93855e19-a0cb-4f83-b9a1-f0a5e4706b48" type="motivation">
+    <element xsi:type="archimate:Stakeholder" name="Industrial enterprize" id="5e0b00f9-8690-4dfa-b0b8-3cbbf6f07547"/>
+    <element xsi:type="archimate:Goal" name="Autsoursing of non profile business" id="856caf5d-87f5-460c-8914-158ceaaa1e30"/>
+    <element xsi:type="archimate:Value" name="Cost redusion" id="187d9a3f-0bde-4388-8693-a0f0e7408c32"/>
+    <element xsi:type="archimate:Driver" name="Productivity" id="63de7ffb-c43e-4cc4-8218-eb3fb355eddd"/>
+    <element xsi:type="archimate:Driver" name="Agility" id="5f073e72-2b13-4d9e-a205-118a77f4f731"/>
+    <element xsi:type="archimate:Driver" name="Quality" id="2ab5314f-d92f-47c1-b29d-d38cd04846f6"/>
+    <element xsi:type="archimate:Driver" name="Sustainability" id="7a8b5dbf-b6b8-4964-ac21-0c6da3d289f8"/>
+  </folder>
+  <folder name="Implementation &amp; Migration" id="dea0e6f3-f7e3-4e8a-a2e4-5a217b9d6dfa" type="implementation_migration"/>
+  <folder name="Other" id="58126ada-c8da-4957-af47-56b75c9b4597" type="other">
+    <element xsi:type="archimate:Junction" name="Junction" id="f9e70073-bcc7-4f6c-984d-7e2133e9d32c"/>
+  </folder>
+  <folder name="Relations" id="a29d86de-2e2f-4e0e-b6dd-197203dff416" type="relations">
+    <element xsi:type="archimate:AssociationRelationship" id="1d3abdfd-3aea-4637-8eb2-1a7b47f3f9ac" source="5e0b00f9-8690-4dfa-b0b8-3cbbf6f07547" target="856caf5d-87f5-460c-8914-158ceaaa1e30"/>
+    <element xsi:type="archimate:AssociationRelationship" id="fb946db7-60fd-4219-acbc-8546f6a25de3" source="187d9a3f-0bde-4388-8693-a0f0e7408c32" target="1d3abdfd-3aea-4637-8eb2-1a7b47f3f9ac"/>
+    <element xsi:type="archimate:AggregationRelationship" id="2ba1559e-9e84-4b55-9133-a56861104356" source="8ce3a97b-7ee7-4a08-ad62-9db6c23c2659" target="ef6add94-2c6c-4752-bb82-f02fa2343406"/>
+    <element xsi:type="archimate:AggregationRelationship" id="ca533102-6bdd-4be6-9bf5-694dbf483284" source="f126aa91-1963-4737-9856-4e9e974e5fd8" target="cf91b408-8538-4854-8399-bdfee3dccb18"/>
+    <element xsi:type="archimate:AggregationRelationship" id="44797c02-3c73-426c-b851-9d8e920b5bd0" source="f126aa91-1963-4737-9856-4e9e974e5fd8" target="83b9857f-1c0e-4055-b6ab-bbbd2e897515"/>
+    <element xsi:type="archimate:AggregationRelationship" id="a9d900e7-1fd1-419e-80b5-356e658a4a00" source="f126aa91-1963-4737-9856-4e9e974e5fd8" target="b9a53600-19a3-4bee-904b-89ead199f250"/>
+    <element xsi:type="archimate:AggregationRelationship" id="8e0b9dd8-e7ca-463e-8e5c-b4e858ee5c00" source="f126aa91-1963-4737-9856-4e9e974e5fd8" target="d0f1f59f-2a6f-4335-a2ea-39a7d719a9ae"/>
+    <element xsi:type="archimate:AggregationRelationship" id="2d8f4087-5f1e-4172-9912-9479ffb110c7" source="f126aa91-1963-4737-9856-4e9e974e5fd8" target="72939b55-e5e3-4fb2-ab29-d9bba8d7ab09"/>
+    <element xsi:type="archimate:AggregationRelationship" id="89a26d09-c7ae-47f0-94b2-be6304840d1c" source="8ce3a97b-7ee7-4a08-ad62-9db6c23c2659" target="0f1807fb-503f-4e01-ba2b-bacf1f954e0b"/>
+    <element xsi:type="archimate:AggregationRelationship" id="8e7d6796-7569-4d58-a888-4a9976557c1d" source="8ce3a97b-7ee7-4a08-ad62-9db6c23c2659" target="377adc10-00ca-4b81-8ea6-a1c02de54f5c"/>
+  </folder>
+  <folder name="Views" id="1f7a5a19-ddfc-4f79-97ce-35bf75e6afcf" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="09241505-44bf-4f70-8624-078048c2fa79">
+      <child xsi:type="archimate:DiagramObject" id="6c58113e-00b0-4cc8-a1c6-4b03ad77c697" archimateElement="5e0b00f9-8690-4dfa-b0b8-3cbbf6f07547">
+        <bounds x="48" y="108" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="91f7e5be-7e9a-4b9c-85cf-d81836db815f" targetConnections="b43af1d7-51f2-4ca7-83be-564cb06b636c" source="6c58113e-00b0-4cc8-a1c6-4b03ad77c697" target="921fd7ac-9c15-4ad2-b146-eb8f6e4db36b" archimateRelationship="1d3abdfd-3aea-4637-8eb2-1a7b47f3f9ac"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="921fd7ac-9c15-4ad2-b146-eb8f6e4db36b" targetConnections="91f7e5be-7e9a-4b9c-85cf-d81836db815f" archimateElement="856caf5d-87f5-460c-8914-158ceaaa1e30">
+        <bounds x="360" y="108" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="9d41f86c-2d5c-4529-999c-1ffa0d9fc620" archimateElement="187d9a3f-0bde-4388-8693-a0f0e7408c32">
+        <bounds x="180" y="180" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="b43af1d7-51f2-4ca7-83be-564cb06b636c" source="9d41f86c-2d5c-4529-999c-1ffa0d9fc620" target="91f7e5be-7e9a-4b9c-85cf-d81836db815f" archimateRelationship="fb946db7-60fd-4219-acbc-8546f6a25de3"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="6bf5259e-8297-4394-83a7-b5f6bceedd1f" archimateElement="f9e70073-bcc7-4f6c-984d-7e2133e9d32c">
+        <bounds x="252" y="128" width="15" height="15"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="02df33ac-2ff6-4375-a9bf-74af57c756be" archimateElement="7ec5caac-f5cb-4dfc-8cee-2af457f92fbd">
+        <bounds x="396" y="216" width="120" height="55"/>
+      </child>
+    </element>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="BPofProdPlant" id="60f66923-0d9d-44c9-b72d-8bf159e15c6d" connectionRouterType="2">
+      <child xsi:type="archimate:DiagramObject" id="ef8c9ad5-09fe-4f97-81e8-fc25ede1b114" fillColor="#8aff8a" archimateElement="2180f1bd-d5ff-4d4a-b1ec-7b3381456dcb">
+        <bounds x="-60" y="168" width="121" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="63b44917-cd32-4ba4-82df-7d1585446fa7" fillColor="#8aff8a" archimateElement="69c89f69-bd02-4b9f-9ee6-c00af2c56456">
+        <bounds x="-120" y="114" width="181" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="ad67279e-a615-4b4c-99b9-b4274d53e5fd" fillColor="#8aff8a" archimateElement="fb0c3699-171b-4feb-95af-4192e82ed075">
+        <bounds x="-24" y="60" width="205" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="433897b5-1bc8-4cd1-ba37-dbcd4ccd765d" archimateElement="141046c5-4044-4d90-a054-ef4d2a4bce33">
+        <bounds x="180" y="60" width="433" height="289"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="b4f34a9f-e9cc-4324-ac22-a376a39a18da" fillColor="#91c8ff" archimateElement="f126aa91-1963-4737-9856-4e9e974e5fd8">
+        <bounds x="84" y="216" width="625" height="121"/>
+        <sourceConnection xsi:type="archimate:Connection" id="77c3e389-f013-49a9-8ade-1594cbb26491" source="b4f34a9f-e9cc-4324-ac22-a376a39a18da" target="d76d9054-e9c1-4231-9746-cd5f3a39a544" archimateRelationship="ca533102-6bdd-4be6-9bf5-694dbf483284"/>
+        <sourceConnection xsi:type="archimate:Connection" id="94357204-78a7-4e49-b3cb-1b2a36a6efe9" source="b4f34a9f-e9cc-4324-ac22-a376a39a18da" target="03fbccbd-cec9-4165-9de4-ec20c9482003" archimateRelationship="44797c02-3c73-426c-b851-9d8e920b5bd0"/>
+        <sourceConnection xsi:type="archimate:Connection" id="c1dcf10c-068a-4a55-bed6-a4d75a544716" source="b4f34a9f-e9cc-4324-ac22-a376a39a18da" target="0549c677-5557-4909-b4e1-069a85694c5b" archimateRelationship="a9d900e7-1fd1-419e-80b5-356e658a4a00"/>
+        <sourceConnection xsi:type="archimate:Connection" id="a78296b6-819f-45e4-96c3-f36a8eb85299" source="b4f34a9f-e9cc-4324-ac22-a376a39a18da" target="b0d12bb4-8e4f-467b-8601-652873081a13" archimateRelationship="8e0b9dd8-e7ca-463e-8e5c-b4e858ee5c00"/>
+        <sourceConnection xsi:type="archimate:Connection" id="25e2205c-5579-448f-9642-9d2ba59baf39" source="b4f34a9f-e9cc-4324-ac22-a376a39a18da" target="9af4dee8-3c1e-4741-b142-be31e8d232dc" archimateRelationship="2d8f4087-5f1e-4172-9912-9479ffb110c7"/>
+        <child xsi:type="archimate:DiagramObject" id="d76d9054-e9c1-4231-9746-cd5f3a39a544" targetConnections="77c3e389-f013-49a9-8ade-1594cbb26491" fillColor="#91c8ff" archimateElement="cf91b408-8538-4854-8399-bdfee3dccb18">
+          <bounds x="12" y="48" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="03fbccbd-cec9-4165-9de4-ec20c9482003" targetConnections="94357204-78a7-4e49-b3cb-1b2a36a6efe9" fillColor="#91c8ff" archimateElement="83b9857f-1c0e-4055-b6ab-bbbd2e897515">
+          <bounds x="131" y="48" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="0549c677-5557-4909-b4e1-069a85694c5b" targetConnections="c1dcf10c-068a-4a55-bed6-a4d75a544716" fillColor="#91c8ff" archimateElement="b9a53600-19a3-4bee-904b-89ead199f250">
+          <bounds x="250" y="48" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="b0d12bb4-8e4f-467b-8601-652873081a13" targetConnections="a78296b6-819f-45e4-96c3-f36a8eb85299" fillColor="#91c8ff" archimateElement="d0f1f59f-2a6f-4335-a2ea-39a7d719a9ae">
+          <bounds x="372" y="48" width="117" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="9af4dee8-3c1e-4741-b142-be31e8d232dc" targetConnections="25e2205c-5579-448f-9642-9d2ba59baf39" fillColor="#91c8ff" archimateElement="72939b55-e5e3-4fb2-ab29-d9bba8d7ab09">
+          <bounds x="492" y="48" width="116" height="55"/>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="e81b81c1-c289-4225-896a-a2c7d22330c8" textAlignment="1" archimateElement="8ce3a97b-7ee7-4a08-ad62-9db6c23c2659">
+        <bounds x="60" y="84" width="433" height="133"/>
+        <sourceConnection xsi:type="archimate:Connection" id="3481c53e-a500-4f7f-9946-e9e71260b5f2" source="e81b81c1-c289-4225-896a-a2c7d22330c8" target="bd31278f-ae11-4dac-82ca-3dd08ae98f61" archimateRelationship="2ba1559e-9e84-4b55-9133-a56861104356"/>
+        <sourceConnection xsi:type="archimate:Connection" id="42e84338-e1cf-49b9-a8c5-c596d5ad2567" source="e81b81c1-c289-4225-896a-a2c7d22330c8" target="5666bd6f-1f3d-4f5e-8637-944262889ca0" archimateRelationship="89a26d09-c7ae-47f0-94b2-be6304840d1c"/>
+        <sourceConnection xsi:type="archimate:Connection" id="8203d8ba-c876-41f3-9c78-ab106754a47b" source="e81b81c1-c289-4225-896a-a2c7d22330c8" target="0899ca9e-a24d-4ecf-8288-de1619c5f82f" archimateRelationship="8e7d6796-7569-4d58-a888-4a9976557c1d"/>
+        <child xsi:type="archimate:DiagramObject" id="bd31278f-ae11-4dac-82ca-3dd08ae98f61" targetConnections="3481c53e-a500-4f7f-9946-e9e71260b5f2" archimateElement="ef6add94-2c6c-4752-bb82-f02fa2343406">
+          <bounds x="12" y="36" width="169" height="49"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="5666bd6f-1f3d-4f5e-8637-944262889ca0" targetConnections="42e84338-e1cf-49b9-a8c5-c596d5ad2567" archimateElement="0f1807fb-503f-4e01-ba2b-bacf1f954e0b">
+          <bounds x="192" width="120" height="49"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="0899ca9e-a24d-4ecf-8288-de1619c5f82f" targetConnections="8203d8ba-c876-41f3-9c78-ab106754a47b" archimateElement="377adc10-00ca-4b81-8ea6-a1c02de54f5c">
+          <bounds x="192" y="84" width="120" height="49"/>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="47773673-8c83-4270-b5ec-c117c7061b1d" archimateElement="c0bd1274-0363-47a6-957a-83e27638377c">
+        <bounds x="384" y="108" width="325" height="85"/>
+      </child>
+    </element>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="I4.0 Solutions" id="451108f6-563c-48c9-8f4f-d5e7a8c38fe1" connectionRouterType="2">
+      <child xsi:type="archimate:DiagramObject" id="30329751-744b-4da6-9e0a-fa6500a6adea" archimateElement="68fb6936-b081-4fad-998b-21494c5d8016">
+        <bounds x="168" y="84" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="573df964-d182-420c-8ecf-96d4c1456ed3" archimateElement="0e141174-654d-451b-897d-08c140c10f23">
+        <bounds x="312" y="84" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="80d96d0a-f945-435e-b8e4-db4469e26f20" archimateElement="448bd6c9-0be9-48f8-994d-618fb718fd57">
+        <bounds x="444" y="84" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="11518c2c-f5b1-472f-95ec-146b9c2940c0" archimateElement="a69c779f-328c-4ce8-b6a8-b59769963905">
+        <bounds x="696" y="84" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="9742da22-a7bb-46bf-988e-669911d35d58" archimateElement="fb7f8f81-07fb-4187-8fe9-c21a77c489c1">
+        <bounds x="576" y="84" width="109" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="79958dfd-fe08-4de6-a772-3f4dbd6b586b" archimateElement="d0e1e2ea-af77-4139-8847-bf8efe2d8097">
+        <bounds x="24" y="84" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="107c8540-1b9e-401e-8ac4-6d61531895e7" archimateElement="ad17c8e7-e018-43e1-8328-1d4b6f476e1e">
+        <bounds x="216" y="156" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="00944eeb-cf9e-442b-ac7b-7af27aae8912" archimateElement="34e09615-804f-4ae3-9d6c-b23d2ac2736a">
+        <bounds x="348" y="156" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="8a5aa8ba-3278-4371-8318-d6d8a89f7049" archimateElement="764ecf9f-5adc-4d9a-9349-51537526d140">
+        <bounds x="479" y="156" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="8274786a-15b8-4a6d-9b37-4fe348ccbf42" archimateElement="79abea6e-cfae-433c-88a1-4136239865d2">
+        <bounds x="84" y="156" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="33e2660a-672f-42dd-bc72-2f435eaecf9b" archimateElement="d389380c-92a8-42cd-bfda-35d1a0dd82b7">
+        <bounds x="611" y="156" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="a21afd3f-5f7b-46c3-a4ee-d44d9e5d4167" archimateElement="5dc02a24-c6a6-4f89-aeb1-4f3731b0874f">
+        <bounds x="744" y="156" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="903d5f9b-616f-401a-979c-0676388963cf" archimateElement="8869c339-2038-4b6a-ab16-633b93304b7e">
+        <bounds x="-48" y="156" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="f7a02776-a1b6-4bea-8ad5-4ee67c4a602e" archimateElement="63de7ffb-c43e-4cc4-8218-eb3fb355eddd">
+        <bounds x="108" y="12" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="7f94c635-2fc8-454f-8551-84a181c51069" archimateElement="5f073e72-2b13-4d9e-a205-118a77f4f731">
+        <bounds x="252" y="12" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="af99007a-270a-440e-906c-4b146ddc772e" archimateElement="2ab5314f-d92f-47c1-b29d-d38cd04846f6">
+        <bounds x="396" y="12" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="4530d320-1377-4a3b-b2f8-f60a28150461" archimateElement="7a8b5dbf-b6b8-4964-ac21-0c6da3d289f8">
+        <bounds x="540" y="12" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="92eb4a36-1b95-4617-9602-2c6057d26d40" archimateElement="542d5e7a-7019-425b-9b30-30432a4ce798">
+        <bounds x="193" y="-60" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="7ffad4e5-cd41-4afe-b140-e13f3868faca" archimateElement="daa4a732-e82f-4b2b-a1a0-7aa35db46ffc">
+        <bounds x="335" y="-60" width="133" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="d68b9ba5-92c8-4d7f-8474-d09d090e877e" archimateElement="7f0e1fa6-159d-4b5c-ac72-422bc100dd9c">
+        <bounds x="479" y="-60" width="120" height="55"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
